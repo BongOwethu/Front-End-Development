@@ -1,5 +1,5 @@
-# Front-End-Development with Freecodecamp 🧑‍💻
 ![github_cover_banner](https://github.com/BongOwethu/Front-End-Development/blob/main/frontend.png)
+# Front-End-Development with Freecodecamp 🧑‍💻
 
 👁️ 2,245,003 views  
 📆 24 Aug 2022  
